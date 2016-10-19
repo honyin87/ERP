@@ -1,0 +1,6 @@
+{
+    "name": "honyin/erp",
+    "require": {
+        "gabordemooij/redbean": "^4.3"
+    }
+}

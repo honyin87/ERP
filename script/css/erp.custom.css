@@ -1,0 +1,20 @@
+.panel-default > .panel-heading {
+    color: #73879C;
+	font-size: 1.2em;
+	font-weight: bold;
+    background-color: #f5f5f5;
+    border-color: #dddddd;
+}
+
+.table {
+	font-size:13px;
+}
+
+.sidebar-footer > a >.glyphicon{
+	line-height: inherit;
+}
+
+.navbar-nav>li>a.dropdown-toggle.info-number>i{
+	padding-top:9px;
+	padding-bottom:9px;
+}

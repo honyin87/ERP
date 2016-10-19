@@ -1,0 +1,12 @@
+{
+    "name": "honyin/erp",
+
+    "require": {
+        "gabordemooij/redbean": "^4.3",
+        "components/jquery": "^2.2.4",
+        "twbs/bootstrap": "^3.3",
+        "datatables/datatables": "^1.10",
+        "fortawesome/font-awesome": "^4.6"
+    }
+    
+}

@@ -1,0 +1,29 @@
+{
+  "name": "erp",
+  "description": "php version of ERP, using RedBeanPHP as ORM framework",
+  "main": "index.php",
+  "keywords": [
+    "ERP"
+  ],
+  "authors": [
+    "Honyin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/honyin87/ERP",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7",
+    "datatables.net": "^1.10.12",
+    "datatables.net-bs": "^1.10.12",
+    "iCheck": "icheck#^1.0.2",
+    "font-awesome": "^4.6.3",
+    "bootstrap-progressbar": "^0.9.0"
+  }
+}
